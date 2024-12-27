@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Avenir';
     /* src: url("fonts/AvenirRegular.ttf") format('truetype'); */
-    src: url("../fonts/AvenirRegular.ttf") format("truetype");
+    src: url("AvenirRegular.ttf") format("truetype");
 }
 
 .animate-icon {
@@ -346,7 +346,7 @@ color: #002c50 !important;
 
   .intro-copy--bg {
 
-    background-image: url('../img/MLSTBG.png');
+    background-image: url('MLSTBG.png');
     background-position: top;
     background-repeat: no-repeat;
     /* height: 1785px; */
